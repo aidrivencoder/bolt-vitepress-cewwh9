@@ -4,7 +4,7 @@
 
 The `.vitepress/config.ts` file is the heart of your VitePress site. Here's how to configure various aspects:
 
-## Basic Config
+## Basic Config - test
 
 ```ts
 export default {
